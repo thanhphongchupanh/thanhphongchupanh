@@ -14,7 +14,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/microsoftsqlserver-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="SQl Server logo" title="MongoDB" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Sql Server-282C34?logo=&logoColor=CC2927" alt="SQl Server logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -23,6 +23,8 @@
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=007ACC" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 
 <br>
